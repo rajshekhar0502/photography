@@ -46,7 +46,7 @@ nav .menu{
     color: #000;
 }
 .img{
-    background: url(leica.jpg) no-repeat;
+    background: url("./leica.jpg") no-repeat;
     height: 100vh;
     width: 100%;
     background-position: center;
